@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="VIKINGS MOD TEST" Logo="https://i.postimg.cc/nr4wvf0n/VIKINGS-MOD.png">
+		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
+		<Server Name="VIKINGSMODTEST">
+			<Version>2.5</Version>
+			<DownloadMode>Release</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/NORDMANN845/NordArmy-XMAS-UPDATE/releases</Download>
+				<AltDownload/>
+			</Downloads>
+			<!-- Got a website -->
+			<WebSite>https://7daystodiemods.com/vikings-mod-coming-soon/</WebSite>
+			<Description>
+VIKINGS MOD TEST		
+</Description>
+			<!-- Who made -->
+			<Author>NORDMANN</Author>
+			<!-- Have a discord you want people to join? -->
+			<Discord>https://discord.gg/jkY7P4U39M </Discord>
+			<!-- Want to give people an option to donate? -->
+			<Donate>https://www.paypal.com/paypalme/goodfellasbc</Donate>
+		</Server>
+	</ServerGroup>
+</Servers>
